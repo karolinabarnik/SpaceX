@@ -1,0 +1,64 @@
+.body {
+  position: relative;
+  width: 1920px;
+  height: 1080px;
+  background: linear-gradient(297.9deg, #323237 15.11%, #000000 90.89%);
+}
+
+/* SPACEX */
+.navigation .navigation2 {
+  position: relative;
+}
+
+.navigation img {
+  position: absolute;
+  width: 247.25px;
+  height: 24.15px;
+  left: 810px;
+  top: 82.53px;
+}
+
+.navigation2 img {
+  position: absolute;
+  width: 95.85px;
+  height: 36.6px;
+  left: 1014.15px;
+  top: 70px;
+}
+
+.arrowleft {
+  width: 15px;
+  height: 15px;
+  top: 63px;
+  left: 390px;
+  border: 1px solid #5C5C5D;
+  border-width: 5px 5px 0 0;
+  transform: rotate(-135deg);
+}
+
+.arrowed div {
+  position: absolute;
+}
+
+.arrowed {
+  position: relative;
+}
+
+.arrowright {
+  width: 15px;
+  height: 15px;
+  top: 63px;
+  left: 1514px;
+  border: 1px solid #F4F6FA;
+  border-width: 5px 5px 0 0;
+  transform: rotate(45deg);
+}
+
+.rectangle {
+  position: absolute;
+  width: 1140px;
+  height: 1px;
+  left: 390px;
+  top: 150px;
+  background: #5C5C5D;
+}
